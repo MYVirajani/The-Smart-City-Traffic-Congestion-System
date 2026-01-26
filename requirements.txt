@@ -1,3 +1,11 @@
 kafka-python
 pyspark
 apache-airflow
+psycopg2-binary
+pandas
+numpy
+matplotlib
+seaborn
+apache-airflow-providers-postgres
+python-dateutil
+pytz
