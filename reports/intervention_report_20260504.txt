@@ -1,0 +1,53 @@
+================================================================================
+SMART CITY TRAFFIC MANAGEMENT SYSTEM
+DAILY INTERVENTION REPORT
+================================================================================
+
+Report Date: 2026-05-04
+Generated: 2026-05-06 01:11:11
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+Total Traffic Records Analyzed: 1672
+Critical Alerts Triggered: 0
+Junctions Monitored: 4
+Average Daily Congestion Index: 28.79
+
+================================================================================
+JUNCTIONS REQUIRING POLICE INTERVENTION
+================================================================================
+
+Junction: Junction_A
+  Peak Traffic Hour: 8:00 - 9:00
+  Average Vehicle Count: 125.6
+  Average Speed: 17.8 km/h
+  Congestion Index: 67.37
+  Recommendation: URGENT - Deploy 3+ traffic officers
+
+Junction: Junction_B
+  Peak Traffic Hour: 8:00 - 9:00
+  Average Vehicle Count: 125.2
+  Average Speed: 17.8 km/h
+  Congestion Index: 66.67
+  Recommendation: URGENT - Deploy 3+ traffic officers
+
+Junction: Junction_C
+  Peak Traffic Hour: 8:00 - 9:00
+  Average Vehicle Count: 125.8
+  Average Speed: 18.5 km/h
+  Congestion Index: 65.09
+  Recommendation: URGENT - Deploy 3+ traffic officers
+
+Junction: Junction_D
+  Peak Traffic Hour: 7:00 - 8:00
+  Average Vehicle Count: 125.5
+  Average Speed: 18.2 km/h
+  Congestion Index: 65.96
+  Recommendation: URGENT - Deploy 3+ traffic officers
+
+
+================================================================================
+END OF REPORT
+================================================================================
